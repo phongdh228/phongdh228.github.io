@@ -1,0 +1,70 @@
+.root {
+  position: relative;
+  width: 823px;
+  height: 210px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.IRehiredArnauToDoSomeAdditiona {
+  color: #000;
+  font-size: 30.06px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._ {
+  color: #000;
+  font-size: 45.0633px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 35.723%;
+  right: 61.2394%;
+  top: 50%;
+  bottom: 22.8571%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ronaldWeasley {
+  color: #000;
+  font-size: 25px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.9478%;
+  right: 40.8262%;
+  top: 66.6667%;
+  bottom: 18.0952%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cEO {
+  color: #000;
+  font-size: 25px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 39.8542%;
+  right: 55.2855%;
+  top: 82.381%;
+  bottom: 2.381%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

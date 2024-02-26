@@ -1,0 +1,34 @@
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 27px;
+}
+.projects {
+  color: #000;
+  font-size: 45.0633px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 586.4897px;
+  height: min-content;
+  flex-direction: column;
+}
+.separator {
+  width: 1284px;
+  max-width: 100%;
+  height: 2.0001px;
+  max-height: 100%;
+  position: relative;
+}
+.separator::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  transform: translateY(2.0001px) rotate(0deg);
+  width: 1284px;
+  height: 0;
+  outline: solid 1px #000;
+}

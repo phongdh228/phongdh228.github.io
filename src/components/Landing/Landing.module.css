@@ -1,0 +1,366 @@
+.titleOfSection.titleOfSection {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.projects {
+  color: #000;
+  font-size: 45.0633px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 586.4897px;
+  height: min-content;
+  flex-direction: column;
+}
+.separator.separator {
+  position: initial;
+  height: 0;
+}
+.titleOfSection2.titleOfSection2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.separator2.separator2 {
+  position: initial;
+  height: 0;
+}
+.titleOfSection3.titleOfSection3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.projects2 {
+  color: #000;
+  font-size: 45.0633px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 586.4897px;
+  height: min-content;
+  flex-direction: column;
+}
+.separator3.separator3 {
+  position: initial;
+  height: 0;
+}
+.testimonial.testimonial {
+  position: absolute;
+  left: 228px;
+  top: 248px;
+}
+.sayHello {
+  color: #000;
+  font-size: 45.0633px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 48.5981%;
+  top: 0;
+  bottom: 90.312%;
+  flex-direction: column;
+}
+.line9.line9 {
+  position: absolute;
+  width: initial;
+  height: initial;
+}
+.contactInputs.contactInputs {
+  height: initial;
+  justify-content: space-between;
+}
+.footer.footer {
+  flex: initial;
+}
+.copyright {
+  color: #6b7280;
+  font-size: 14.4px;
+  line-height: 150%;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 158.8px;
+  top: 43.2002px;
+  width: 310.5px;
+  height: 21.6px;
+  flex-direction: column;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.fontAwesomeFacebookF.fontAwesomeFacebookF {
+  width: 21.6px;
+  height: 21.6px;
+  overflow: visible;
+}
+.fontAwesomeTwitter.fontAwesomeTwitter {
+  width: 21.6px;
+  height: 21.6px;
+  overflow: visible;
+}
+.root {
+  height: min-content;
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 164px;
+  background-color: #f5f5f5;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.frame4 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 64px;
+}
+.hero {
+  position: relative;
+  width: 1228px;
+  height: 682px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.hIIMDANGHOANGPHONG {
+  position: absolute;
+  left: 227px;
+  top: 103px;
+  width: 773px;
+  height: 209px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #282828;
+  font-size: 80px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #282828;
+  font-size: 80px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #282828;
+  font-size: 80px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.aYoungPassionateGameDesignerWh {
+  color: #000;
+  font-size: 30px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 346px;
+  top: 341px;
+  width: 535px;
+  height: 113px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.aboutMe {
+  position: relative;
+  width: 1284px;
+  height: 794.5px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.clipping {
+  position: absolute;
+  left: 4px;
+  top: 740px;
+  width: 1284px;
+  height: 51px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.photoshopMSOfficesFigmaDataAna {
+  position: absolute;
+  left: 112px;
+  top: 10px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list {
+  font-size: 24px;
+}
+.list ::marker {
+  color: #000;
+  font-size: 24px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  color: #000;
+  font-size: 24px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._17083333059701 {
+  position: absolute;
+  left: 691px;
+  top: 133px;
+  width: 451px;
+  height: 527px;
+  background-image:/* webpackIgnore: true */ url('/assets/_17083333059701.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.withAPassionForDesignFeaturesA {
+  color: #282828;
+  font-size: 30px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 103px;
+  top: 330px;
+  width: 535px;
+  height: min-content;
+  flex-direction: column;
+}
+.projects3 {
+  position: relative;
+  width: 1284px;
+  height: 791.5823px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 233.5px;
+  width: 314px;
+  height: 558px;
+  border-radius: 5px;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle2 {
+  position: absolute;
+  left: 404px;
+  top: 233.5px;
+  width: 370px;
+  height: 558px;
+  border-radius: 5px;
+  background-color: #c4c4c4;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle2.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle3 {
+  position: absolute;
+  left: 808px;
+  top: 233.5px;
+  width: 370px;
+  height: 558px;
+  border-radius: 5px;
+  background-color: #c4c4c4;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._1BuracoZingplay {
+  color: #000;
+  font-size: 30px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 181.5823px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2TongitsZingplay {
+  color: #000;
+  font-size: 30px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 404px;
+  top: 181.5823px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._3LetSDrinkBoardGame {
+  color: #000;
+  font-size: 30px;
+  font-family: Abel, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 808px;
+  top: 181.5823px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.circle {
+  position: absolute;
+  left: 258px;
+  top: 214.5823px;
+  width: 38px;
+  height: 38px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.testimonials {
+  position: relative;
+  width: 1284px;
+  height: 458px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rightArrow {
+  position: absolute;
+  left: 1128px;
+  top: 259px;
+  width: 59px;
+  height: 59px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.leftArrow {
+  position: absolute;
+  left: 92px;
+  top: 259px;
+  width: 59px;
+  height: 59px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.footerNews {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
